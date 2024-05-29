@@ -11,7 +11,6 @@ This repository contains the implementation of the ALEXNET Convolutional Neural 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
